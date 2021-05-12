@@ -22,7 +22,7 @@
     "lazysizes": "^5.2.2",
     "lodash": "^4.17.15",
     "normalize.css": "^8.0.1",
-    "postcss": "^7.0.32"
+    "postcss": "^8.2.10"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.0",
